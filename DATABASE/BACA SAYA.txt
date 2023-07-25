@@ -1,0 +1,1 @@
+UNTUK LOGIN KE ADMINISTRATOR============================-ketikan pada browser: http://localhost/11PORTALSEKOLAHV1/administrator-Login: Username: admin password: admin123
